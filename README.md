@@ -25,7 +25,7 @@ Use
 ---
 
 ```
-usage: runSQL.py [-h] [--sqlfile SQLFILE] [--csv CSV] [--query QUERY]
+usage: runSQL [-h] [--sqlfile SQLFILE] [--csv CSV] [--query QUERY]
                  [--silent]
 
 Run a SQL file and write output to stdout.
