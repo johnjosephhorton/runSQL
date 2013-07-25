@@ -12,7 +12,6 @@ setup(name='runSQL',
       author_email = runSQL.__email__,
       url = 'http://github.com/johnjosephhorton/runSQL',
       packages = [''],
-      package_data = {'':['']},
       package_dir= {'':'.'}, 
       entry_points={
           'console_scripts':
