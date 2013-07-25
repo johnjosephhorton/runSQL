@@ -62,7 +62,7 @@ You can just run it by passing the query as a string, using the ``--query`` opti
 	(2585753L,)
 	
 You can write to a CSV file by passing the parameter `--csv` with a filename.
-
+```
     runSQL --query "select count(*) from agg.b_assignment" --csv test.csv 
 	
 	['count']
